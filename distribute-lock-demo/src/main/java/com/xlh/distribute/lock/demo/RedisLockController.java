@@ -1,4 +1,4 @@
-package com.xlh.distribute.lock.demo.controller;
+package com.xlh.distribute.lock.demo;
 
 import com.xlh.distribute.lock.demo.lock.RedisLock;
 import com.xlh.distribute.lock.demo.lock.ZkLockDemo;

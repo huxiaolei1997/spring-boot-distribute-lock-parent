@@ -20,10 +20,16 @@
 
     <modules>
         <module>distribute-lock-demo</module>
+        <module>redisson-lock</module>
     </modules>
 
     <dependencyManagement>
         <dependencies>
+
+            <dependency>
+                <groupId>org.redisson</groupId>
+                <artifactId>redisson</artifactId>
+            </dependency>
 
             <dependency>
                 <groupId>org.apache.zookeeper</groupId>

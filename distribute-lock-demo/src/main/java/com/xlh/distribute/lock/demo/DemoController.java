@@ -1,4 +1,4 @@
-package com.xlh.distribute.lock.demo.controller;
+package com.xlh.distribute.lock.demo;
 
 import com.xlh.distribute.lock.demo.dao.DistributeLockMapper;
 import com.xlh.distribute.lock.demo.model.DistributeLock;
