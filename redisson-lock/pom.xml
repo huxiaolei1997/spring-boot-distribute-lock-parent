@@ -6,9 +6,7 @@
         <groupId>com.xlh</groupId>
         <artifactId>spring-boot-distribute-lock-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.xlh</groupId>
     <artifactId>redisson-lock</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>redisson-lock</name>

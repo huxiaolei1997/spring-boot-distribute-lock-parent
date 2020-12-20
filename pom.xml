@@ -11,8 +11,11 @@
     <groupId>com.xlh</groupId>
     <artifactId>spring-boot-distribute-lock-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-distribute-com.xlh.distribute.lock.lock-parent</name>
+    <name>spring-boot-distribute-lock-parent</name>
     <description>Distribute Lock Demo project for Spring Boot</description>
+
+
+    <packaging>pom</packaging>
 
     <properties>
         <java.version>1.8</java.version>
